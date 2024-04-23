@@ -24,7 +24,7 @@ follows from the analysis you've done.
 
 Otherwise, good job on a hard problem set
 
-### PS6: 6.5/10
+PS6: 6.5/10
 Your use of interpolation techniques shows a good grasp of numerical methods,
 particularly in function approximation. However, there's room for improvement in
 interpreting the implications of the errors associated with these methods,
@@ -32,3 +32,7 @@ especially in the context of economic modeling. I want to see more
 discussion/analysis.  Be careful about running things in global scope
 (especially with your Chebyshevev implementation). The presentation of results
 could be more coherent -- be more structured in your analysis.
+
+PS7: 7.25/10
+Good job on Q1, although some of your policies look rather noisy, even for linear interpolation.  Are you solving the max problem correctly?
+I'm getting different revenues than you in Q2.  Check against the solutions manual.  
