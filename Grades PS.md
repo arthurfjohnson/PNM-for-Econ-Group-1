@@ -36,3 +36,5 @@ could be more coherent -- be more structured in your analysis.
 PS7: 7.25/10
 Good job on Q1, although some of your policies look rather noisy, even for linear interpolation.  Are you solving the max problem correctly?
 I'm getting different revenues than you in Q2.  Check against the solutions manual.  
+
+PS8: 8.5/10.  Really well done.  You've absolutely nailed it.  
